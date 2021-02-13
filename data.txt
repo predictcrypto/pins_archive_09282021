@@ -8,3 +8,8 @@
   rows: 300000
   cols: 27
   type: table
+- path: messari
+  name: messari
+  rows: 0
+  cols: 83
+  type: table
