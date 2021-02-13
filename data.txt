@@ -1,1 +1,5 @@
-[]
+- path: hitBTC_orderbooks_github
+  name: hitBTC_orderbooks_github
+  rows: 53417
+  cols: 27
+  type: table
