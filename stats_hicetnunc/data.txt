@@ -1,0 +1,17 @@
+path:
+- data.csv
+- data.rds
+rows: 1
+cols: 10
+columns:
+  date_utc: Date
+  date_time_utc: POSIXct
+  stats_day_users: integer
+  stats_day_txs: integer
+  stats_week_users: integer
+  stats_week_txs: integer
+  stats_month_users: integer
+  stats_month_txs: integer
+  stats_all_users: integer
+  stats_all_txs: integer
+type: table
