@@ -35,7 +35,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 8452
+  rows: 8603
   cols: 17
   type: table
 - path: stats_hicetnunc
