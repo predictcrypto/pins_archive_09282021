@@ -30,7 +30,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_n
   name: crypto_tutorial_holdout_predictions_n
-  rows: 5650
+  rows: 5635
   cols: 9
   type: table
 - path: decentraland_market
