@@ -1,6 +1,6 @@
 - path: hitBTC_orderbooks_github
   name: hitBTC_orderbooks_github
-  rows: 70670
+  rows: 70684
   cols: 27
   type: table
 - path: hitBTC_orderbook
