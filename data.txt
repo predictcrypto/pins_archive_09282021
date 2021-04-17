@@ -40,6 +40,6 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 641
+  rows: 642
   cols: 10
   type: table
