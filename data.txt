@@ -43,3 +43,8 @@
   rows: 825
   cols: 10
   type: table
+- path: hdao_price
+  name: hdao_price
+  rows: 1
+  cols: 3
+  type: table
