@@ -40,11 +40,11 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 841
+  rows: 842
   cols: 10
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 91
+  rows: 90
   cols: 3
   type: table
