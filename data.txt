@@ -45,6 +45,6 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 468
+  rows: 469
   cols: 3
   type: table
