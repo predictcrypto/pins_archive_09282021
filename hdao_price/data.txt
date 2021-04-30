@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 717
+rows: 718
 cols: 3
 columns:
   date_utc: Date
