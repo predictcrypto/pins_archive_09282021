@@ -80,6 +80,6 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 29
+  rows: 30
   cols: 3
   type: table
