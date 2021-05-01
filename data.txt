@@ -63,3 +63,8 @@
   rows: 1
   cols: 3
   type: table
+- path: kusd_price
+  name: kusd_price
+  rows: 1
+  cols: 3
+  type: table
