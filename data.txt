@@ -95,7 +95,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 10
+  rows: 11
   cols: 3
   type: table
 - path: bdao_price
