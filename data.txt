@@ -88,3 +88,8 @@
   rows: 8
   cols: 3
   type: table
+- path: rsal_price
+  name: rsal_price
+  rows: 8
+  cols: 3
+  type: table
