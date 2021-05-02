@@ -103,3 +103,6 @@
   rows: 49
   cols: 3
   type: table
+- path: hdao_holders
+  name: hdao_holders
+  type: default
