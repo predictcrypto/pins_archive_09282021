@@ -1,10 +1,10 @@
 path:
 - data.csv
 - data.rds
-rows: 34
+rows: 35
 cols: 3
 columns:
   date_utc: Date
   date_time_utc: POSIXct
-  sdao_price: numeric
+  rsal_price: numeric
 type: table
