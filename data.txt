@@ -98,3 +98,8 @@
   rows: 5
   cols: 3
   type: table
+- path: bdao_price
+  name: bdao_price
+  rows: 1
+  cols: 3
+  type: table
