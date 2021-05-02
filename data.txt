@@ -90,6 +90,6 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 46
+  rows: 47
   cols: 3
   type: table
