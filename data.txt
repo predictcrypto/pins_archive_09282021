@@ -105,6 +105,6 @@
   type: table
 - path: hdao_holders
   name: hdao_holders
-  rows: 5086
+  rows: 5107
   cols: 9
   type: table
