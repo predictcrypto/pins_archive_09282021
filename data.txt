@@ -40,7 +40,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1022
+  rows: 1023
   cols: 10
   type: table
 - path: hdao_price
