@@ -10,7 +10,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 369
+  rows: 368
   cols: 3
   type: table
 - path: wxtz_price
@@ -67,4 +67,9 @@
   name: hitBTC_orderbook
   rows: 300000
   cols: 27
+  type: table
+- path: stats_hicetnunc_new
+  name: stats_hicetnunc_new
+  rows: 11
+  cols: 14
   type: table
