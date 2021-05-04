@@ -80,7 +80,7 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 348
+  rows: 349
   cols: 3
   type: table
 - path: sdao_price
