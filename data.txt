@@ -100,7 +100,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 235
+  rows: 236
   cols: 3
   type: table
 - path: hdao_holders
