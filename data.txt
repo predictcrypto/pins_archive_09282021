@@ -105,7 +105,7 @@
   type: table
 - path: hdao_holders
   name: hdao_holders
-  rows: 5107
+  rows: 5129
   cols: 9
   type: table
 - path: stats_hicetnunc_new
