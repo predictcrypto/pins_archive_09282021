@@ -20,7 +20,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 380
+  rows: 381
   cols: 3
   type: table
 - path: usds_price
@@ -75,6 +75,6 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1033
+  rows: 1032
   cols: 10
   type: table
