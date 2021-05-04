@@ -50,7 +50,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 333
+  rows: 332
   cols: 3
   type: table
 - path: wxtz_price
@@ -110,6 +110,6 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 3
+  rows: 5
   cols: 14
   type: table
