@@ -55,6 +55,6 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 243
+  rows: 244
   cols: 3
   type: table
