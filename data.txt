@@ -75,6 +75,6 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1031
+  rows: 1032
   cols: 10
   type: table
