@@ -100,7 +100,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 13700
+  rows: 13793
   cols: 17
   type: table
 - path: stats_kalamint
