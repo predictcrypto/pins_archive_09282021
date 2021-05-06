@@ -20,7 +20,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 710
+  rows: 711
   cols: 3
   type: table
 - path: usds_price
@@ -105,6 +105,6 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1088
+  rows: 1086
   cols: 10
   type: table
