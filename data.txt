@@ -1,6 +1,6 @@
 - path: kusd_price
   name: kusd_price
-  rows: 944
+  rows: 946
   cols: 3
   type: table
 - path: hdao_price
