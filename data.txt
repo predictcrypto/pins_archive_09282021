@@ -105,6 +105,6 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1126
+  rows: 1127
   cols: 10
   type: table
