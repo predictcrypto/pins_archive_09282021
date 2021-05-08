@@ -1,0 +1,65 @@
+path:
+- data.csv
+- data.rds
+rows: 0
+cols: 58
+columns:
+  id: integer
+  token_id: character
+  num_sales: integer
+  image_url: character
+  name: character
+  description: character
+  marketplace_link: character
+  owner_name: character
+  owner_address: character
+  opensea_url: character
+  payment_token: character
+  usd_price: character
+  last_sale_total_price: character
+  last_sale_from_username: character
+  last_sale_from_address: character
+  last_sale_timestamp: character
+  last_sale_to_username: character
+  last_sale_to_address: character
+  last_sale_outcome: character
+  last_sale_price: character
+  current_rate_mana_eth: character
+  current_rate_mana_usd: character
+  last_sale_block_number: character
+  last_sale_transaction_id: integer
+  last_sale_transaction_timestamp: character
+  last_sale_transaction_hash: character
+  last_sale_transaction_index: character
+  last_sale_transaction_created_timestamp: character
+  last_sale_quantity: character
+  is_presale: integer
+  address: character
+  suburb: character
+  island: character
+  height: integer
+  area: numeric
+  colors: integer
+  geometry_type: character
+  coordinates_x1: numeric
+  coordinates_y1: numeric
+  coordinates_x2: numeric
+  coordinates_y2: numeric
+  coordinates_x3: numeric
+  coordinates_y3: numeric
+  coordinates_x4: numeric
+  coordinates_y4: numeric
+  coordinates_x5: numeric
+  coordinates_y5: numeric
+  x1: integer
+  x2: integer
+  y1: integer
+  y2: integer
+  z1: integer
+  z2: integer
+  last_sale_auction_type: character
+  price_ETH: numeric
+  date: character
+  volume: numeric
+  ETH_per_unit_volume: numeric
+type: table

@@ -108,3 +108,8 @@
   rows: 1138
   cols: 10
   type: table
+- path: cv_sales
+  name: cv_sales
+  rows: 0
+  cols: 58
+  type: table
