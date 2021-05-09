@@ -110,6 +110,6 @@
   type: table
 - path: cv_sales
   name: cv_sales
-  rows: 4761
-  cols: 58
+  rows: 4598
+  cols: 52
   type: table
