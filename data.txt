@@ -113,3 +113,8 @@
   rows: 4761
   cols: 58
   type: table
+- path: open_cv_sales
+  name: open_cv_sales
+  rows: 18
+  cols: 26
+  type: table
