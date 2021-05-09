@@ -105,7 +105,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1150
+  rows: 1151
   cols: 10
   type: table
 - path: cv_sales
