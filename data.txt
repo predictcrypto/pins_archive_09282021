@@ -115,6 +115,6 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 25
+  rows: 31
   cols: 26
   type: table
