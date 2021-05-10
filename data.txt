@@ -15,7 +15,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 1323
+  rows: 1324
   cols: 3
   type: table
 - path: stkr_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 158
+  rows: 157
   cols: 14
   type: table
 - path: stats_hicetnunc
