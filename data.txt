@@ -10,7 +10,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 1205
+  rows: 1207
   cols: 3
   type: table
 - path: wxtz_price
@@ -115,6 +115,6 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 19
+  rows: 20
   cols: 26
   type: table
