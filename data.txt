@@ -5,7 +5,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 2207
+  rows: 2206
   cols: 3
   type: table
 - path: wrap_price
@@ -115,6 +115,6 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 61
+  rows: 72
   cols: 26
   type: table
