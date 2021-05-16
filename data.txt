@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1308
+  rows: 1304
   cols: 10
   type: table
 - path: hdao_holders
@@ -115,7 +115,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 180
+  rows: 171
   cols: 26
   type: table
 - path: crypto_tutorial_holdout_predictions
