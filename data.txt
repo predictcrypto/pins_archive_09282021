@@ -30,7 +30,7 @@
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 2362
+  rows: 2361
   cols: 3
   type: table
 - path: ethtz_price
@@ -90,7 +90,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 7060
+  rows: 7685
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions_n
