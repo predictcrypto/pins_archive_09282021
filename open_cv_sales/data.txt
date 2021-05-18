@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 363
+rows: 370
 cols: 26
 columns:
   NA.: integer
