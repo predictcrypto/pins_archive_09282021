@@ -15,7 +15,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 2391
+  rows: 2392
   cols: 3
   type: table
 - path: stkr_price
@@ -105,7 +105,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1362
+  rows: 1360
   cols: 10
   type: table
 - path: cv_sales
