@@ -10,12 +10,12 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 2584
+  rows: 2583
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 2584
+  rows: 2583
   cols: 3
   type: table
 - path: stkr_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 352
+  rows: 354
   cols: 14
   type: table
 - path: stats_hicetnunc
@@ -105,7 +105,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1393
+  rows: 1394
   cols: 10
   type: table
 - path: cv_sales
