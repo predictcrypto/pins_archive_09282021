@@ -110,7 +110,7 @@
   type: table
 - path: cv_sales
   name: cv_sales
-  rows: 4792
+  rows: 4823
   cols: 58
   type: table
 - path: open_cv_sales
