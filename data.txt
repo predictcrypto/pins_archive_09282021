@@ -35,7 +35,7 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 2740
+  rows: 2739
   cols: 3
   type: table
 - path: sdao_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 377
+  rows: 379
   cols: 14
   type: table
 - path: stats_hicetnunc
