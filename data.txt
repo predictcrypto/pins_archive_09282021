@@ -40,12 +40,12 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 2737
+  rows: 2738
   cols: 3
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 2737
+  rows: 2738
   cols: 3
   type: table
 - path: tz10x_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 383
+  rows: 381
   cols: 14
   type: table
 - path: stats_hicetnunc
