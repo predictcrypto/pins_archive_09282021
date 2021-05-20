@@ -15,7 +15,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 2734
+  rows: 2733
   cols: 3
   type: table
 - path: stkr_price
@@ -115,7 +115,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 153
+  rows: 157
   cols: 26
   type: table
 - path: crypto_tutorial_holdout_predictions
