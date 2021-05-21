@@ -35,12 +35,12 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 2883
+  rows: 2884
   cols: 3
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 2851
+  rows: 2852
   cols: 3
   type: table
 - path: rsal_price
