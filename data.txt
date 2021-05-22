@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 2852
+  rows: 2853
   cols: 3
   type: table
 - path: hitBTC_orderbooks_github
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 408
+  rows: 407
   cols: 14
   type: table
 - path: stats_hicetnunc
