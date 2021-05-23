@@ -10,7 +10,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 3184
+  rows: 3183
   cols: 3
   type: table
 - path: wxtz_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 436
+  rows: 438
   cols: 14
   type: table
 - path: stats_hicetnunc
@@ -115,7 +115,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 214
+  rows: 217
   cols: 26
   type: table
 - path: crypto_tutorial_holdout_predictions
