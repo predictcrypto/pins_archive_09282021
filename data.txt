@@ -1,6 +1,6 @@
 - path: kusd_price
   name: kusd_price
-  rows: 3145
+  rows: 3144
   cols: 3
   type: table
 - path: hdao_price
@@ -115,7 +115,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 167
+  rows: 170
   cols: 26
   type: table
 - path: crypto_tutorial_holdout_predictions
