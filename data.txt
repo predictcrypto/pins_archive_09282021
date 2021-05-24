@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 3152
+  rows: 3154
   cols: 3
   type: table
 - path: hitBTC_orderbooks_github
