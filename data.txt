@@ -15,7 +15,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 3729
+  rows: 3730
   cols: 3
   type: table
 - path: stkr_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1585
+  rows: 1579
   cols: 10
   type: table
 - path: hdao_holders
