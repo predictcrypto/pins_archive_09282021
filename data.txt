@@ -5,12 +5,12 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 4729
+  rows: 4730
   cols: 3
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 3873
+  rows: 3874
   cols: 3
   type: table
 - path: wxtz_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1609
+  rows: 1601
   cols: 10
   type: table
 - path: hdao_holders
