@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1622
+  rows: 1623
   cols: 10
   type: table
 - path: hdao_holders
