@@ -5,7 +5,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 4782
+  rows: 4783
   cols: 3
   type: table
 - path: wrap_price
