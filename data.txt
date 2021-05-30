@@ -1,6 +1,6 @@
 - path: rsal_price
   name: rsal_price
-  rows: 4173
+  rows: 4174
   cols: 3
   type: table
 - path: tz10x_price
