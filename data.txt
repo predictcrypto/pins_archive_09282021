@@ -60,7 +60,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 139
+  rows: 138
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
