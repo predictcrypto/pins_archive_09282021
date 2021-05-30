@@ -25,7 +25,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 4209
+  rows: 4210
   cols: 3
   type: table
 - path: stkr_price
@@ -75,7 +75,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 599
+  rows: 597
   cols: 14
   type: table
 - path: stats_kalamint
