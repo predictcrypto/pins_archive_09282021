@@ -20,7 +20,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 4121
+  rows: 4122
   cols: 3
   type: table
 - path: usds_price
