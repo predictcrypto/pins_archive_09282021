@@ -55,7 +55,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 4165
+  rows: 4167
   cols: 3
   type: table
 - path: open_cv_sales
