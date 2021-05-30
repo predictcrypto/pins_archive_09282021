@@ -80,7 +80,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1663
+  rows: 1664
   cols: 10
   type: table
 - path: stats_hicetnunc
