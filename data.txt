@@ -10,7 +10,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 4079
+  rows: 4080
   cols: 3
   type: table
 - path: hdao_price
