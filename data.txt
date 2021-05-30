@@ -13,3 +13,8 @@
   rows: 4072
   cols: 3
   type: table
+- path: hdao_price
+  name: hdao_price
+  rows: 5050
+  cols: 3
+  type: table
