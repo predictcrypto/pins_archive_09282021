@@ -78,3 +78,8 @@
   rows: 597
   cols: 14
   type: table
+- path: stats_kalamint
+  name: stats_kalamint
+  rows: 1663
+  cols: 10
+  type: table
