@@ -8,3 +8,8 @@
   rows: 4076
   cols: 3
   type: table
+- path: bdao_price
+  name: bdao_price
+  rows: 4072
+  cols: 3
+  type: table
