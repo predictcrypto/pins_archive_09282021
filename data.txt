@@ -103,3 +103,8 @@
   rows: 1676
   cols: 10
   type: table
+- path: hdao_holders
+  name: hdao_holders
+  rows: 6514
+  cols: 9
+  type: table
