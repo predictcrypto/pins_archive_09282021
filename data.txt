@@ -15,7 +15,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 5101
+  rows: 5102
   cols: 3
   type: table
 - path: kusd_price
@@ -97,9 +97,4 @@
   name: crypto_tutorial_holdout_predictions
   rows: 8015
   cols: 9
-  type: table
-- path: stats_hicetnunc
-  name: stats_hicetnunc
-  rows: 1671
-  cols: 10
   type: table
