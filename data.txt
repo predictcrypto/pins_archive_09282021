@@ -23,3 +23,8 @@
   rows: 4215
   cols: 3
   type: table
+- path: usds_price
+  name: usds_price
+  rows: 4215
+  cols: 3
+  type: table
