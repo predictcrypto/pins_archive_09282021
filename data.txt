@@ -8,3 +8,8 @@
   rows: 4214
   cols: 3
   type: table
+- path: stkr_price
+  name: stkr_price
+  rows: 4214
+  cols: 3
+  type: table
