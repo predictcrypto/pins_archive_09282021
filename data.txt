@@ -15,7 +15,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 5173
+  rows: 5174
   cols: 3
   type: table
 - path: kusd_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1683
+  rows: 1678
   cols: 10
   type: table
 - path: hdao_holders
