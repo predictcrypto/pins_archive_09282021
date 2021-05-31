@@ -98,3 +98,8 @@
   rows: 8015
   cols: 9
   type: table
+- path: stats_hicetnunc
+  name: stats_hicetnunc
+  rows: 1670
+  cols: 10
+  type: table
