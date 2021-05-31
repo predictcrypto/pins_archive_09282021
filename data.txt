@@ -5,7 +5,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 4221
+  rows: 4222
   cols: 3
   type: table
 - path: stkr_price
@@ -77,9 +77,4 @@
   name: hitBTC_orderbook
   rows: 300000
   cols: 27
-  type: table
-- path: stats_hicetnunc_new
-  name: stats_hicetnunc_new
-  rows: 601
-  cols: 14
   type: table
