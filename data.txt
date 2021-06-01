@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 152
+  rows: 151
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1691
+  rows: 1689
   cols: 10
   type: table
 - path: hdao_holders
