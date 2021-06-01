@@ -50,7 +50,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 4363
+  rows: 4362
   cols: 3
   type: table
 - path: bdao_price
@@ -60,7 +60,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1709
+  rows: 1710
   cols: 10
   type: table
 - path: open_cv_sales
