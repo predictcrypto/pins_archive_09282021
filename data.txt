@@ -1,6 +1,6 @@
 - path: wrap_price
   name: wrap_price
-  rows: 4426
+  rows: 4425
   cols: 3
   type: table
 - path: wxtz_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1696
+  rows: 1701
   cols: 10
   type: table
 - path: hdao_holders
