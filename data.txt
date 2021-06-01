@@ -5,7 +5,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 4371
+  rows: 4372
   cols: 3
   type: table
 - path: stkr_price
@@ -80,7 +80,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 622
+  rows: 621
   cols: 14
   type: table
 - path: crypto_tutorial_results_latest
