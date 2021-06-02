@@ -1,11 +1,11 @@
 - path: wrap_price
   name: wrap_price
-  rows: 4515
+  rows: 4516
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 4515
+  rows: 4516
   cols: 3
   type: table
 - path: stkr_price
@@ -80,7 +80,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 643
+  rows: 642
   cols: 14
   type: table
 - path: crypto_tutorial_results_latest
