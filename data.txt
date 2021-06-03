@@ -115,6 +115,6 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 69
+  rows: 71
   cols: 3
   type: table
