@@ -10,7 +10,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 4851
+  rows: 4852
   cols: 3
   type: table
 - path: hdao_price
@@ -60,7 +60,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1772
+  rows: 1771
   cols: 10
   type: table
 - path: open_cv_sales
