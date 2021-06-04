@@ -1,6 +1,6 @@
 - path: wrap_price
   name: wrap_price
-  rows: 4896
+  rows: 4897
   cols: 3
   type: table
 - path: wxtz_price
@@ -15,7 +15,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 5752
+  rows: 5753
   cols: 3
   type: table
 - path: kusd_price
