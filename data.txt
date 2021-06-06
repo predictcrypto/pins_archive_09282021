@@ -80,7 +80,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 745
+  rows: 744
   cols: 14
   type: table
 - path: crypto_tutorial_results_latest
@@ -115,7 +115,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 525
+  rows: 526
   cols: 3
   type: table
 - path: flame_price
