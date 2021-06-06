@@ -40,7 +40,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 5128
+  rows: 5129
   cols: 3
   type: table
 - path: rsal_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 194
+  rows: 206
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
