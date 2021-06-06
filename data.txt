@@ -15,7 +15,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 6053
+  rows: 6052
   cols: 3
   type: table
 - path: kusd_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 157
+  rows: 154
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
