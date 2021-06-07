@@ -55,12 +55,12 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 5234
+  rows: 5235
   cols: 3
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1855
+  rows: 1854
   cols: 10
   type: table
 - path: open_cv_sales
