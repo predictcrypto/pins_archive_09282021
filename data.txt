@@ -20,7 +20,7 @@
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 5241
+  rows: 5242
   cols: 3
   type: table
 - path: usds_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1836
+  rows: 1835
   cols: 10
   type: table
 - path: hdao_holders
