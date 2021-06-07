@@ -25,7 +25,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 5289
+  rows: 5290
   cols: 3
   type: table
 - path: usdtz_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1844
+  rows: 1843
   cols: 10
   type: table
 - path: hdao_holders
