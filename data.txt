@@ -25,7 +25,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 5417
+  rows: 5418
   cols: 3
   type: table
 - path: usdtz_price
