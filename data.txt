@@ -60,7 +60,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1876
+  rows: 1875
   cols: 10
   type: table
 - path: open_cv_sales
@@ -120,6 +120,6 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 520
+  rows: 521
   cols: 3
   type: table
