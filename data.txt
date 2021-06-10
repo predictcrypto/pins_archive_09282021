@@ -60,7 +60,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 1905
+  rows: 1906
   cols: 10
   type: table
 - path: open_cv_sales
