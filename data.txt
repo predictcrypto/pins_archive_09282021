@@ -10,7 +10,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 5846
+  rows: 5847
   cols: 3
   type: table
 - path: hdao_price
