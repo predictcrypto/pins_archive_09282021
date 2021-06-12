@@ -35,7 +35,7 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 5977
+  rows: 5978
   cols: 3
   type: table
 - path: sdao_price
