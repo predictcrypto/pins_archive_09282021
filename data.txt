@@ -30,7 +30,7 @@
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 6099
+  rows: 6100
   cols: 3
   type: table
 - path: ethtz_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1979
+  rows: 1978
   cols: 10
   type: table
 - path: hdao_holders
