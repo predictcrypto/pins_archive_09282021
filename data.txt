@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 1998
+  rows: 2000
   cols: 10
   type: table
 - path: hdao_holders
@@ -115,7 +115,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 1582
+  rows: 1581
   cols: 3
   type: table
 - path: flame_price
