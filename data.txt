@@ -80,7 +80,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 895
+  rows: 896
   cols: 14
   type: table
 - path: crypto_tutorial_results_latest
