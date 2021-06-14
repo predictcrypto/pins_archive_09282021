@@ -1,6 +1,6 @@
 - path: wrap_price
   name: wrap_price
-  rows: 6345
+  rows: 6346
   cols: 3
   type: table
 - path: wxtz_price
