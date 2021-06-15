@@ -15,7 +15,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 7363
+  rows: 7364
   cols: 3
   type: table
 - path: kusd_price
