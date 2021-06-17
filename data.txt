@@ -50,7 +50,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 6625
+  rows: 6624
   cols: 3
   type: table
 - path: bdao_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 143
+  rows: 140
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
