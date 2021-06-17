@@ -50,12 +50,12 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 6624
+  rows: 6625
   cols: 3
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 6620
+  rows: 6621
   cols: 3
   type: table
 - path: stats_kalamint
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 140
+  rows: 143
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
