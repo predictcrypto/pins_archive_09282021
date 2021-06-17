@@ -30,7 +30,7 @@
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 6760
+  rows: 6761
   cols: 3
   type: table
 - path: ethtz_price
