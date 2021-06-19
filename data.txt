@@ -120,6 +120,6 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 2021
+  rows: 2022
   cols: 3
   type: table
