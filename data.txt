@@ -70,7 +70,7 @@
   type: table
 - path: hitBTC_orderbooks_github
   name: hitBTC_orderbooks_github
-  rows: 94134
+  rows: 94148
   cols: 27
   type: table
 - path: hitBTC_orderbook
@@ -90,7 +90,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 8205
+  rows: 8305
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
