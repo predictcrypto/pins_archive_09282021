@@ -50,7 +50,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 7216
+  rows: 7217
   cols: 3
   type: table
 - path: bdao_price
