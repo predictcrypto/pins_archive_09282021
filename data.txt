@@ -45,7 +45,7 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 7978
+  rows: 7979
   cols: 3
   type: table
 - path: tz10x_price
