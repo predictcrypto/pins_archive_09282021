@@ -45,7 +45,7 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 8148
+  rows: 8147
   cols: 3
   type: table
 - path: tz10x_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2384
+  rows: 2386
   cols: 10
   type: table
 - path: hdao_holders
