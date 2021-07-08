@@ -5,7 +5,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 9334
+  rows: 9333
   cols: 3
   type: table
 - path: stkr_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 204
+  rows: 212
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
