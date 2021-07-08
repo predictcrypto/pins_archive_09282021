@@ -120,6 +120,6 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 4456
+  rows: 4457
   cols: 3
   type: table
