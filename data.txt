@@ -40,7 +40,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 9571
+  rows: 9573
   cols: 3
   type: table
 - path: rsal_price
