@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 9361
+  rows: 9362
   cols: 3
   type: table
 - path: stats_kalamint
@@ -85,7 +85,7 @@
   type: table
 - path: crypto_tutorial_results_latest
   name: crypto_tutorial_results_latest
-  rows: 700
+  rows: 730
   cols: 6
   type: table
 - path: crypto_tutorial_holdout_predictions_old
