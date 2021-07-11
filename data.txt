@@ -20,7 +20,7 @@
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 9771
+  rows: 9770
   cols: 3
   type: table
 - path: usds_price
@@ -90,7 +90,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 5515
+  rows: 5875
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
