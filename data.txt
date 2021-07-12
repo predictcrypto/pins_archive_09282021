@@ -5,7 +5,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 10025
+  rows: 10026
   cols: 3
   type: table
 - path: stkr_price
