@@ -20,7 +20,7 @@
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 9904
+  rows: 9905
   cols: 3
   type: table
 - path: usds_price
