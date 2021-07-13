@@ -110,12 +110,12 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 13585
+  rows: 13256
   cols: 17
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 5541
+  rows: 5540
   cols: 3
   type: table
 - path: flame_price
