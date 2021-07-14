@@ -10,7 +10,7 @@
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 10293
+  rows: 10294
   cols: 3
   type: table
 - path: hdao_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 319
+  rows: 322
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
