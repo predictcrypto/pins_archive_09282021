@@ -1,6 +1,6 @@
 - path: wrap_price
   name: wrap_price
-  rows: 11233
+  rows: 11234
   cols: 3
   type: table
 - path: wxtz_price
@@ -60,7 +60,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 2846
+  rows: 2845
   cols: 10
   type: table
 - path: open_cv_sales
