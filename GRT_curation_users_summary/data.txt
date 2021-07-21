@@ -1,0 +1,13 @@
+path:
+- data.csv
+- data.rds
+rows: 419
+cols: 6
+columns:
+  address: character
+  TotalProfitLoss: numeric
+  TotalSignalledTokens: numeric
+  TotalUnsignalledTokens: numeric
+  date_utc: Date
+  date_time_utc: POSIXct
+type: table
