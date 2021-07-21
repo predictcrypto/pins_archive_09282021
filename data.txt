@@ -138,3 +138,8 @@
   rows: 838
   cols: 6
   type: table
+- path: GRT_network_stats
+  name: GRT_network_stats
+  rows: 1
+  cols: 62
+  type: table
