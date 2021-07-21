@@ -1,0 +1,19 @@
+path:
+- data.csv
+- data.rds
+rows: 1703
+cols: 12
+columns:
+  averageCostBasis: numeric
+  id: character
+  signal: numeric
+  signalledTokens: numeric
+  unsignalledTokens: numeric
+  pricePerShare: numeric
+  subgraphID: numeric
+  shareValue: numeric
+  TotalProfitLoss: numeric
+  address: character
+  date_utc: Date
+  date_time_utc: POSIXct
+type: table
