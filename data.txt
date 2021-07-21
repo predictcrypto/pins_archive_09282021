@@ -135,6 +135,6 @@
   type: table
 - path: GRT_curation_users_summary
   name: GRT_curation_users_summary
-  rows: 419
+  rows: 838
   cols: 6
   type: table
