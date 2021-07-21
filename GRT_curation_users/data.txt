@@ -1,0 +1,30 @@
+path:
+- data.csv
+- data.rds
+rows: 0
+cols: 23
+columns:
+  account: character
+  activeCombinedSignalCount: integer
+  activeNameSignalCount: integer
+  activeSignalCount: integer
+  combinedSignalCount: integer
+  createdAt: integer
+  defaultDisplayName: integer
+  id: character
+  nameSignalCount: integer
+  signalCount: integer
+  signalingEfficiency: character
+  totalAverageCostBasisPerSignal: character
+  totalNameSignal: character
+  totalNameSignalAverageCostBasis: character
+  totalNameSignalledTokens: character
+  totalNameUnsignalledTokens: character
+  totalSignal: character
+  totalSignalAverageCostBasis: character
+  totalSignalledTokens: character
+  totalUnsignalledTokens: character
+  totalWithdrawnTokens: character
+  date_utc: Date
+  date_time_utc: POSIXct
+type: table
