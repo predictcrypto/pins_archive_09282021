@@ -1,0 +1,27 @@
+path:
+- data.csv
+- data.rds
+rows: 125
+cols: 20
+columns:
+  createdAt: integer
+  curatorFeeRewards: character
+  deniedAt: integer
+  id: character
+  indexingDelegatorRewardAmount: character
+  indexingIndexerRewardAmount: character
+  indexingRewardAmount: character
+  ipfsHash: character
+  originalName: character
+  pricePerShare: character
+  queryFeeRebates: character
+  queryFeesAmount: character
+  reserveRatio: integer
+  schemaIpfsHash: character
+  signalAmount: character
+  signalledTokens: character
+  stakedTokens: character
+  unsignalledTokens: character
+  date_utc: Date
+  date_time_utc: POSIXct
+type: table
