@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 3412
+rows: 1710
 cols: 12
 columns:
   averageCostBasis: numeric
