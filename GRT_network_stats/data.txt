@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 6
+rows: 8
 cols: 62
 columns:
   GRTinETH: character
