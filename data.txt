@@ -145,6 +145,6 @@
   type: table
 - path: GRT_subgraphs
   name: GRT_subgraphs
-  rows: 2123
+  rows: 2277
   cols: 20
   type: table
