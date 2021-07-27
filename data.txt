@@ -1,6 +1,6 @@
 - path: wrap_price
   name: wrap_price
-  rows: 12171
+  rows: 12172
   cols: 3
   type: table
 - path: wxtz_price
@@ -15,7 +15,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 13026
+  rows: 13027
   cols: 3
   type: table
 - path: kusd_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 514
+  rows: 506
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
