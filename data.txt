@@ -35,7 +35,7 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 12099
+  rows: 12100
   cols: 3
   type: table
 - path: sdao_price
@@ -65,7 +65,7 @@
   type: table
 - path: open_cv_sales
   name: open_cv_sales
-  rows: 477
+  rows: 471
   cols: 26
   type: table
 - path: hitBTC_orderbooks_github
