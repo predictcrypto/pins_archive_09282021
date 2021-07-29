@@ -105,7 +105,7 @@
   type: table
 - path: hdao_holders
   name: hdao_holders
-  rows: 7305
+  rows: 7307
   cols: 9
   type: table
 - path: decentraland_market
