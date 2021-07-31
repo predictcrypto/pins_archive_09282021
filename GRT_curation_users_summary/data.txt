@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 15009
+rows: 16009
 cols: 6
 columns:
   address: character
