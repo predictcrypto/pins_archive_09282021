@@ -25,7 +25,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 12795
+  rows: 12794
   cols: 3
   type: table
 - path: usdtz_price
@@ -90,7 +90,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 5315
+  rows: 4985
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
