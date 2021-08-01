@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 12720
+  rows: 12719
   cols: 3
   type: table
 - path: stats_kalamint
@@ -80,7 +80,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 1976
+  rows: 1977
   cols: 14
   type: table
 - path: crypto_tutorial_results_latest
