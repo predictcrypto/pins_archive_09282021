@@ -95,7 +95,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 5315
+  rows: 4985
   cols: 9
   type: table
 - path: stats_hicetnunc
