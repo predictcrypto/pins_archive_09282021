@@ -40,7 +40,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 13132
+  rows: 13133
   cols: 3
   type: table
 - path: rsal_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2856
+  rows: 2854
   cols: 10
   type: table
 - path: hdao_holders
