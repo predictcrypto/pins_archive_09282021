@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2841
+  rows: 2861
   cols: 10
   type: table
 - path: hdao_holders
@@ -120,7 +120,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 8257
+  rows: 8258
   cols: 3
   type: table
 - path: GRT_curation_users
