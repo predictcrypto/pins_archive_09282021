@@ -120,7 +120,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 8517
+  rows: 8518
   cols: 3
   type: table
 - path: GRT_curation_users
