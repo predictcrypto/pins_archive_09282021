@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 13380
+  rows: 13379
   cols: 3
   type: table
 - path: stats_kalamint
@@ -100,7 +100,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2863
+  rows: 2840
   cols: 10
   type: table
 - path: hdao_holders
