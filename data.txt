@@ -55,7 +55,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 13668
+  rows: 13669
   cols: 3
   type: table
 - path: stats_kalamint
