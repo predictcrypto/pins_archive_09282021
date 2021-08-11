@@ -33,3 +33,8 @@
   rows: 14248
   cols: 3
   type: table
+- path: tz10x_price
+  name: tz10x_price
+  rows: 14163
+  cols: 3
+  type: table
