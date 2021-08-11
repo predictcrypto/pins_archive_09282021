@@ -43,3 +43,8 @@
   rows: 14159
   cols: 3
   type: table
+- path: plenty_price
+  name: plenty_price
+  rows: 9636
+  cols: 3
+  type: table
