@@ -48,3 +48,8 @@
   rows: 9636
   cols: 3
   type: table
+- path: flame_price
+  name: flame_price
+  rows: 9319
+  cols: 3
+  type: table
