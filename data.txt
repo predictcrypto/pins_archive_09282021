@@ -103,3 +103,8 @@
   rows: 7365
   cols: 9
   type: table
+- path: GRT_curation_users
+  name: GRT_curation_users
+  rows: 67252
+  cols: 23
+  type: table
