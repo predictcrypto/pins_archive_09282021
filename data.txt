@@ -123,3 +123,8 @@
   rows: 81
   cols: 62
   type: table
+- path: GRT_subgraphs
+  name: GRT_subgraphs
+  rows: 13494
+  cols: 20
+  type: table
