@@ -40,7 +40,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 14240
+  rows: 14239
   cols: 3
   type: table
 - path: plenty_price
@@ -142,4 +142,9 @@
   name: crypto_tutorial_holdout_predictions
   rows: 5525
   cols: 9
+  type: table
+- path: decentraland_market
+  name: decentraland_market
+  rows: 11223
+  cols: 17
   type: table
