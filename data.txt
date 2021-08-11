@@ -53,8 +53,8 @@
   rows: 9319
   cols: 3
   type: table
-- path: open_cv_sales
-  name: open_cv_sales
-  rows: 0
-  cols: 26
+- path: hdao_price
+  name: hdao_price
+  rows: 15136
+  cols: 3
   type: table
