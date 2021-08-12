@@ -65,7 +65,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 14471
+  rows: 14472
   cols: 3
   type: table
 - path: stats_hicetnunc
