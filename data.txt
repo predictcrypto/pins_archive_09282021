@@ -45,7 +45,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 9930
+  rows: 9931
   cols: 3
   type: table
 - path: flame_price
