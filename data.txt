@@ -1,6 +1,6 @@
 - path: stkr_price
   name: stkr_price
-  rows: 14539
+  rows: 14538
   cols: 3
   type: table
 - path: kusd_price
@@ -55,17 +55,17 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 15394
+  rows: 15393
   cols: 3
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 14539
+  rows: 14538
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 14539
+  rows: 14538
   cols: 3
   type: table
 - path: stats_hicetnunc
