@@ -40,7 +40,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 14672
+  rows: 14671
   cols: 3
   type: table
 - path: plenty_price
@@ -145,6 +145,6 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 11223
+  rows: 10971
   cols: 17
   type: table
