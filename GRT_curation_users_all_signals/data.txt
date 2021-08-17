@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/GRT_curation_users_all_signals-438c93b/data.csv
+- https://github.com/predictcrypto/pins/releases/download/GRT_curation_users_all_signals-52b016f/data.csv
 - data.rds
-rows: 163439
+rows: 165410
 cols: 12
 columns:
   averageCostBasis: numeric
