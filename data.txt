@@ -40,7 +40,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 15471
+  rows: 15472
   cols: 3
   type: table
 - path: plenty_price
