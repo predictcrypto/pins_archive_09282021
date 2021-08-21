@@ -5,7 +5,7 @@
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 15795
+  rows: 15796
   cols: 3
   type: table
 - path: usds_price
