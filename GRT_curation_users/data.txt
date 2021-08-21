@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/GRT_curation_users-0f2b8e8/data.csv
+- https://github.com/predictcrypto/pins/releases/download/GRT_curation_users-f05b560/data.csv
 - data.rds
-rows: 105252
+rows: 106252
 cols: 23
 columns:
   account: character
