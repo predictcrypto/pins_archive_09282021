@@ -10,7 +10,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 15864
+  rows: 15865
   cols: 3
   type: table
 - path: usdtz_price
