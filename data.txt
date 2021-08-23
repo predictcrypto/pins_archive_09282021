@@ -105,7 +105,7 @@
   type: table
 - path: GRT_curation_users
   name: GRT_curation_users
-  rows: 111252
+  rows: 112252
   cols: 23
   type: table
 - path: GRT_curation_users_all_signals
