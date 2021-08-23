@@ -148,3 +148,8 @@
   rows: 10457
   cols: 17
   type: table
+- path: GRT_delegators
+  name: GRT_delegators
+  rows: 0
+  cols: 10
+  type: table

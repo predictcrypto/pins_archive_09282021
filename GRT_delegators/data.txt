@@ -1,0 +1,17 @@
+path:
+- data.csv
+- data.rds
+rows: 0
+cols: 10
+columns:
+  activeStakesCount: integer
+  createdAt: integer
+  defaultDisplayName: character
+  id: character
+  stakesCount: integer
+  totalRealizedRewards: character
+  totalStakedTokens: character
+  totalUnstakedTokens: character
+  date_utc: Date
+  date_time_utc: POSIXct
+type: table
