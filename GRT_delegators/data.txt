@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 0
+rows: 8091
 cols: 10
 columns:
   activeStakesCount: integer

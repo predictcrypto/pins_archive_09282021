@@ -150,6 +150,6 @@
   type: table
 - path: GRT_delegators
   name: GRT_delegators
-  rows: 0
+  rows: 8091
   cols: 10
   type: table
