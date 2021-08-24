@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 23140
+rows: 23341
 cols: 20
 columns:
   createdAt: integer
