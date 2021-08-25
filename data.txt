@@ -125,7 +125,7 @@
   type: table
 - path: GRT_subgraphs
   name: GRT_subgraphs
-  rows: 24154
+  rows: 24358
   cols: 20
   type: table
 - path: crypto_tutorial_results_latest
