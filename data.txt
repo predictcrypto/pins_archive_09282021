@@ -1,6 +1,6 @@
 - path: stkr_price
   name: stkr_price
-  rows: 16291
+  rows: 16292
   cols: 3
   type: table
 - path: kusd_price
