@@ -35,7 +35,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 16547
+  rows: 16548
   cols: 3
   type: table
 - path: bdao_price
@@ -145,7 +145,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 9852
+  rows: 9960
   cols: 17
   type: table
 - path: GRT_delegators
