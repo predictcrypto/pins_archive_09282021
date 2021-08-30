@@ -100,7 +100,7 @@
   type: table
 - path: hdao_holders
   name: hdao_holders
-  rows: 7587
+  rows: 7597
   cols: 9
   type: table
 - path: GRT_curation_users
