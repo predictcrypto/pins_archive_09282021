@@ -35,7 +35,7 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 16790
+  rows: 16789
   cols: 3
   type: table
 - path: bdao_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2799
+  rows: 2800
   cols: 10
   type: table
 - path: stats_hicetnunc_new
