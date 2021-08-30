@@ -45,7 +45,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 12384
+  rows: 12385
   cols: 3
   type: table
 - path: flame_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2810
+  rows: 2809
   cols: 10
   type: table
 - path: stats_hicetnunc_new
