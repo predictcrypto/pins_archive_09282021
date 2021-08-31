@@ -30,7 +30,7 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 16796
+  rows: 16795
   cols: 3
   type: table
 - path: tz10x_price
@@ -70,7 +70,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2800
+  rows: 2801
   cols: 10
   type: table
 - path: stats_hicetnunc_new
