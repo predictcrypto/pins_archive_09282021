@@ -80,7 +80,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 2815
+  rows: 2816
   cols: 10
   type: table
 - path: open_cv_sales
