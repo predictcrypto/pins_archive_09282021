@@ -120,7 +120,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 425
+  rows: 426
   cols: 62
   type: table
 - path: GRT_subgraphs
