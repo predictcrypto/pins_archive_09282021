@@ -145,7 +145,7 @@
   type: table
 - path: decentraland_market
   name: decentraland_market
-  rows: 9112
+  rows: 9202
   cols: 17
   type: table
 - path: GRT_delegators
