@@ -60,7 +60,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 16856
+  rows: 16857
   cols: 3
   type: table
 - path: wxtz_price
@@ -120,7 +120,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 731
+  rows: 730
   cols: 62
   type: table
 - path: GRT_subgraphs
