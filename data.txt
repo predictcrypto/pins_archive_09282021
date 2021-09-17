@@ -63,3 +63,8 @@
   rows: 16878
   cols: 3
   type: table
+- path: stkr_price
+  name: stkr_price
+  rows: 16878
+  cols: 3
+  type: table
