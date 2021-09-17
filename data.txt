@@ -50,7 +50,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 16876
+  rows: 16877
   cols: 3
   type: table
 - path: wrap_price
@@ -67,9 +67,4 @@
   name: stkr_price
   rows: 16878
   cols: 3
-  type: table
-- path: open_cv_sales
-  name: open_cv_sales
-  rows: 0
-  cols: 26
   type: table
