@@ -73,3 +73,8 @@
   rows: 2820
   cols: 10
   type: table
+- path: stats_hicetnunc_new
+  name: stats_hicetnunc_new
+  rows: 2620
+  cols: 14
+  type: table
