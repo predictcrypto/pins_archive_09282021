@@ -45,7 +45,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 14841
+  rows: 14842
   cols: 3
   type: table
 - path: hdao_price
