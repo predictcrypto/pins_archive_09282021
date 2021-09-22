@@ -23,3 +23,8 @@
   rows: 15707
   cols: 3
   type: table
+- path: flame_price
+  name: flame_price
+  rows: 15390
+  cols: 3
+  type: table
