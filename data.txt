@@ -8,3 +8,8 @@
   rows: 16859
   cols: 3
   type: table
+- path: tz10x_price
+  name: tz10x_price
+  rows: 16859
+  cols: 3
+  type: table
