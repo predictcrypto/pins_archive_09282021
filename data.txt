@@ -1,6 +1,6 @@
 - path: sdao_price
   name: sdao_price
-  rows: 16903
+  rows: 16904
   cols: 3
   type: table
 - path: rsal_price
