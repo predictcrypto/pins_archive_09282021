@@ -20,7 +20,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 15909
+  rows: 15908
   cols: 3
   type: table
 - path: flame_price
@@ -122,4 +122,9 @@
   name: crypto_tutorial_holdout_predictions
   rows: 7655
   cols: 9
+  type: table
+- path: decentraland_market
+  name: decentraland_market
+  rows: 9000
+  cols: 17
   type: table
