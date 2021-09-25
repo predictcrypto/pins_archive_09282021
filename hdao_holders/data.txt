@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 8111
+rows: 8122
 cols: 9
 columns:
   active: logical
