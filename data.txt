@@ -30,7 +30,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 16850
+  rows: 16849
   cols: 3
   type: table
 - path: wrap_price
@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 969
+  rows: 970
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
